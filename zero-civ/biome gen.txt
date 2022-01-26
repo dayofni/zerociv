@@ -1,9 +1,0 @@
-Generate elevation
-Generate wind
-Generate temperature according to latitude, elevation and noise
-Generate moisture according to water bodies, elevation, wind and noise
-Generate magic according to elevation and noise
-
-Combine all three values.
- . Temp + moisture. This generates the biome type.
- . Magic. This generates the biome itself, and how WILD it is :)
